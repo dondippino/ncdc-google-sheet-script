@@ -1,0 +1,5 @@
+{
+    "QUEUE": "ncdc-report",
+    "spreadsheetId": "< Change to ID of the Google Spreadsheet >",
+    "pathToCurrentMutant": "< Change to path of the current_mutation file in the ncdc-auto-script >"
+}
